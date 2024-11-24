@@ -1,6 +1,7 @@
 ## Healthcare Waitlist Analysis Dashboard
 
 This dashboard provides a comprehensive analysis of healthcare waitlists segmented by case type, time bands, age groups, and specialties. Below are the key insights and features:
+## [Dashboard](https://github.com/rsarwal/PowerBI/blob/10a19ab8f2932b0d6dcd5f9ee442085ba189e148/HealthcareWaitlist/InpatientOutpatient.png)
 
 ### Summary Metrics:
 - **Latest Month Waitlist**: Displays the most recent count of patients on the waitlist (709K).
