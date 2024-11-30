@@ -4,7 +4,7 @@
 This dashboard, built using **Power BI Desktop**, provides a data-driven analysis of vocational rehabilitation consumers across various dimensions, including race/ethnicity, temporal trends, and geographic distributions. Designed for policymakers, program managers, and data analysts, the dashboard offers actionable insights to enhance the efficiency and equity of rehabilitation programs.  
 
 ---
-## Dashboard (https://github.com/rsarwal/PowerBI/blob/99607f634d462f899a1cea438c55b3624ec19533/Vocational%20Rehabilitation%20Consumers'%20Insight/DDS.pdf)
+## [Dashboard](https://github.com/rsarwal/PowerBI/blob/99607f634d462f899a1cea438c55b3624ec19533/Vocational%20Rehabilitation%20Consumers'%20Insight/DDS.pdf)
 
 ---
 ## Key Analytical Insights  
