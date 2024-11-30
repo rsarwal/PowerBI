@@ -67,6 +67,6 @@ This dashboard, built using **Power BI Desktop**, provides a data-driven analysi
 ---
 
 ## Preview  
-![Dashboard Screenshot](insert-link-or-image-here)
+![Dashboard Screenshot](https://github.com/rsarwal/PowerBI/blob/99607f634d462f899a1cea438c55b3624ec19533/Vocational%20Rehabilitation%20Consumers'%20Insight/DDS.pdf)
 
 ## Contact  
